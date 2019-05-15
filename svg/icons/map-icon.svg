@@ -1,0 +1,30 @@
+<svg version="1.1" viewBox="0 0 92 85" xmlns="http://www.w3.org/2000/svg">
+	<title>Map</title>
+	<defs>
+		<filter height="142.9%" width="148.3%" x="-24.1%" y="-21.5%">
+			<feGaussianBlur in="SourceGraphic" stdDeviation="5"></feGaussianBlur>
+		</filter>
+		<rect height="64.015" rx="4" width="74.013" x=".92368" y=".38595"></rect>
+		<filter height="121.9%" width="118.9%" x="-6.8%" y="-7.8%">
+			<feOffset dx="2" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+			<feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"></feGaussianBlur>
+			<feColorMatrix in="shadowBlurOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"></feColorMatrix>
+		</filter>
+	</defs>
+	<g fill="none" fill-rule="evenodd">
+		<g transform="translate(6 12.224)">
+			<path d="m10.845-3.5534h58.171l-62.171 69.924v-65.924c0-2.2091 1.7909-4 4-4z" fill="#F2F2F2" filter="url(#c)" opacity=".4" transform="translate(37.93 31.409) rotate(90) translate(-37.93 -31.409)"></path>
+			<use fill="black" filter="url(#b)"></use>
+			<use fill="#FFFFFF" fill-rule="evenodd"></use>
+			<path d="m24.239 37.793h29.238c1.4912 0 2.7 1.2088 2.7 2.7v9.4909c0 1.4912-1.2088 2.7-2.7 2.7h-29.238c-1.4912 0-2.7-1.2088-2.7-2.7v-1.7726-7.7183c0-1.4912 1.2088-2.7 2.7-2.7zM14.174 41.795 14.174 41.795 14.174 41.795 14.174 41.795" fill="#fff"></path>
+			<path d="m14.174 41.795l5.9951-5.983" stroke="#007DC3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+			<path d="m58.137 40.465l4.9425-3.8364" stroke="#007DC3" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path>
+			<polyline points="22.833 41.13 42.864 41.13 53.515 34.482" stroke="#007DC3" stroke-linecap="square" stroke-width="2" transform="translate(38.174 37.806) scale(-1 1) translate(-38.174 -37.806)"></polyline>
+			<path d="m24.239 15.157c-0.93888 0-1.7 0.76112-1.7 1.7v31.162c0 0.93888 0.76112 1.7 1.7 1.7h29.238c0.93888 0 1.7-0.76112 1.7-1.7v-31.162c0-0.93888-0.76112-1.7-1.7-1.7h-29.238zM58.227 14.626 58.227 14.626 58.227 14.626 58.227 14.626" stroke="#007DC3" stroke-width="2"></path>
+			<path d="m58.227 14.626v33.961l5.3804-4.4746c0.38836-0.32298 0.61299-0.80194 0.61299-1.3071v-32.418c0-0.081758-0.028622-0.16094-0.0809-0.2238-0.1236-0.14862-0.34428-0.1689-0.4929-0.045303l-5.4196 4.5072z" stroke="#007DC3" stroke-width="2"></path>
+			<path d="m19.489 50.253v-33.961l-5.3804 4.4746c-0.38836 0.32298-0.61299 0.80194-0.61299 1.3071v32.418c0 0.081758 0.028622 0.16094 0.0809 0.2238 0.1236 0.14862 0.34428 0.1689 0.4929 0.045303l5.4196-4.5072z" stroke="#007DC3" stroke-width="2"></path>
+			<path d="m39.041 46.683c3.9567-6.5015 5.9351-10.843 5.9351-13.023 0-3.2713-2.6572-5.9231-5.9351-5.9231-3.2779 0-5.9351 2.6519-5.9351 5.9231 0 2.1808 1.9784 6.522 5.9351 13.023z" fill="#fff" stroke="#007DC3" stroke-width="1.701"></path>
+			<ellipse cx="39.041" cy="33.607" rx="2.3914" ry="2.3865" stroke="#007DC3" stroke-width="1.701"></ellipse>
+		</g>
+	</g>
+</svg>
